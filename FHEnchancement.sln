@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ajecmar.github.io", "ajecmar.github.io\ajecmar.github.io.esproj", "{1BAC51AA-7DB9-4392-9D80-298C96221FC9}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Calc", "Calc\Calc.esproj", "{1BAC51AA-7DB9-4392-9D80-298C96221FC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
