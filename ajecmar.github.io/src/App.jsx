@@ -5,9 +5,9 @@ import GloomhavenIcon from './gloomhavenIcon';
 import 'bootstrap/dist/css/bootstrap.css';
 
 
-import generalAttack from './assets/images/icons/general/fh-attack-bw-icon.png';
-import generalHeal from './assets/images/icons/general/fh-heal-bw-icon.png';
-import generalMove from './assets/images/icons/general/fh-move-bw-icon.png';
+import generalAttack from './images/icons/general/fh-attack-bw-icon.png';
+import generalHeal from './images/icons/general/fh-heal-bw-icon.png';
+import generalMove from './images/icons/general/fh-move-bw-icon.png';
 
 const iconWidth = "16px";
 
